@@ -1,8 +1,55 @@
 #mainContent {
 	padding-top: 50px;
+	text-align:center;
+	color: white;
+	 font-style: italic;
+
+
 }
 
 ul
 {
-    list-style-type: none;
+		    list-style-type: none;
+
+
 }
+
+li {
+	font-size: 20px;
+	display: inline;
+	float: center;
+	
+	 font-style: bold;
+
+}
+
+body { 
+  background: url(/assets/images/rocks.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.navbar {
+	top: 30px;
+	background-color: black;
+	background: rgba(0, 0, 0, 0.5);
+	padding-top: 50px
+}
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
