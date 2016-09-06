@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "productsite-869fe",
+    "staging": "productsite-946bb"
+  }
+}
